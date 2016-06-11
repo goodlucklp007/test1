@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main(){
+  puts("this is my fisrt hello world in github");
+  return 0;
+}
